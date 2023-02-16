@@ -35,3 +35,11 @@ The activities performed were the following:
 3. What is my spending pattern?
 
 ![alt text](img/4.png)
+### Visualization:
+Finally we obtained a dashboard showing the sales in a general way and the other one showing the performance of these at different times of the day and weeks. You can see the dashboard below and you can access the document by clicking on this [Link](https://github.com/subhojitdas859/MyFi_Analysis_Project/tree/main/files)
+
+![alt text](img/3.png)
+[Link to files](https://github.com/subhojitdas859/MyFi_Analysis_Project/tree/main/files)
+## Conclusions
+- Identification of trends and insights: Identified key trends and insights in personal finance data, such as spending patterns and investment performance, and provided actionable recommendations to improve financial health.
+- Improved financial outcomes: As a result of my analysis and recommendations, I was able to achieve improved financial outcomes, including increased savings, reduced debt, and greater investment returns.
