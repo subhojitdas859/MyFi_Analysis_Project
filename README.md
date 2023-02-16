@@ -1,6 +1,6 @@
 # MyFi Analysis Project *(Excel, Power BI)*
 ## Skills applied
-*Data analysis, Dashboard design, Data integration, Data processing, Data visualizaion*
+*Data analysis, Dashboard design, Data integration, Data processing, Data visualization*
 ## Project Overview
 The following is a personal finance data analysis project where I analyzed my spending patterns, income sources and financial health. I used data visualization and descriptive statistics to gain insights into the data. The goal is to identify areas where I can save money and make better financial decisions.
 ## Objectives
