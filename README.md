@@ -17,7 +17,7 @@ The following is a personal finance data analysis project where I analyzed my sp
 ## Preparation and Cleaning:
 - Integrated data from multiple sources, such as bank statements, credit card bills, and investment accounts, to provide a holistic view of the my currrent financial health.
 - The data for this project can also be collected from a personal finance tracking app or spreadsheet. The data will include date, description, category, amount and income/expense/savings variables.
-- You can see the raw data in this [Link](https://github.com/subhojitdas859/MyFi_Analysis_Project/blob/main/files/MyFi%20Spreadsheet.xlsx) As you can see in the image below, the format of the data was not appropriate for the analysis, so it had to be cleaned and prepared.
+- You can see the raw data in this [LINK](https://github.com/subhojitdas859/MyFi_Analysis_Project/blob/main/files/MyFi%20Spreadsheet.xlsx) As you can see in the image below, the format of the data was not appropriate for the analysis, so it had to be cleaned and prepared.
 
 ![alt text](img/1.png)
 
@@ -41,9 +41,9 @@ The activities performed were the following:
 
 ![alt text](img/4.png)
 ## Visualization
-Finally we obtained a dashboard displaying monthly fluctuations. You can see the dashboard below and you can access the document by clicking on this [Link](https://github.com/subhojitdas859/MyFi_Analysis_Project/blob/main/files/MyFi_Dashboard.pbix)
+Finally we obtained a dashboard displaying monthly fluctuations. You can see the dashboard below and you can access the document by clicking on this [LINK](https://github.com/subhojitdas859/MyFi_Analysis_Project/blob/main/files/MyFi_Dashboard.pbix)
 
 ![alt text](img/3.png)
-[Link to files](https://github.com/subhojitdas859/MyFi_Analysis_Project/tree/main/files)
+[LINK to files](https://github.com/subhojitdas859/MyFi_Analysis_Project/tree/main/files)
 ## Impact
 - Improved financial outcomes: As a result of my analysis and recommendations, I was able to achieve 30% improvement in my financial health, including increased savings, reduced debt, and greater investment returns.
