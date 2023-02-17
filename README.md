@@ -40,7 +40,7 @@ The activities performed were the following:
 3. Which months are financially good or bad?
 
 ![alt text](img/4.png)
-## Visualization:
+## Visualization
 Finally we obtained a dashboard displaying monthly fluctuations. You can see the dashboard below and you can access the document by clicking on this [Link](https://github.com/subhojitdas859/MyFi_Analysis_Project/blob/main/files/MyFi_Dashboard.pbix)
 
 ![alt text](img/3.png)
