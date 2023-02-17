@@ -8,13 +8,13 @@ The following is a personal finance data analysis project where I analyzed my sp
 - Embed Analytics into daily life.
 - Financial Literacy at early age.
 
-### Questions that drive my Analysis:
+## Questions that drive my Analysis:
 - What is my spending pattern?
 - Which months are financially good or bad?
 - Where does most amount of my money go?
 - What is my net worth?
 
-### Preparation and Cleaning:
+## Preparation and Cleaning:
 - Integrated data from multiple sources, such as bank statements, credit card bills, and investment accounts, to provide a holistic view of the my currrent financial health.
 - The data for this project can also be collected from a personal finance tracking app or spreadsheet. The data will include date, description, category, amount and income/expense/savings variables.
 - You can see the raw data in this [Link](https://github.com/subhojitdas859/MyFi_Analysis_Project/blob/main/files/MyFi%20Spreadsheet.xlsx) As you can see in the image below, the format of the data was not appropriate for the analysis, so it had to be cleaned and prepared.
@@ -27,7 +27,7 @@ The activities performed were the following:
 - Created the date, values and category columns for the analysis.
  
 ![alt text](img/2.png)
-### Data analysis:
+## Data analysis:
 
 1. Where does most amount of my earnings go?
 
